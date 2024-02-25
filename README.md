@@ -1,17 +1,38 @@
-<div align="center">
-  <img src="https://media.discordapp.net/attachments/1184282474084302909/1186948529554468934/Evilbytecode.png?ex=65951af5&is=6582a5f5&hm=3cfd858f69be7e548142d23b96d2096fc558ded19906a000b97f59b247cd52fb&=&format=webp&quality=lossless" width="1080" />
 
-  ---
-![](https://github-readme-streak-stats.herokuapp.com/?user=EvilBytecode&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EvilBytecode&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![telegram](https://img.shields.io/badge/Lawxsz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lawxsz/)&nbsp;&nbsp;&nbsp;
+<p align="justify"> 
+Hello im codepulze, self taught developer with 5 - 6 years experience, my stack is below.
+</p>
 
-![](https://komarev.com/ghpvc/?username=EvilBytecode)
+<table>
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"></td>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"></td>
+    <td><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65"></td>
+    <td><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65"></td>
+    <td><img src="https://skillicons.dev/icons?i=perl" alt="Perl" width="65" height="65"></td>
+    <td><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="65" height="65"></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65"></td>
+    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65"></td>
+    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="65" height="65"></td>
+    <td><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" width="65" height="65"></td>
+    <td><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="65" height="65"></td>
+    <td><img src="https://skillicons.dev/icons?i=go" alt="Go" width="65" height="65"></td>
+  </tr>
+</table>
 
----
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EvilBytecode&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="EvilBytecode's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=EvilBytecode&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="EvilBytecode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilBytecode&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
+
+# 🎫 Coding Services SEND DM 🎫
+- https://t.me/codepulze
+- t.me/codepulze
+- discord: codpulze
 
 <div align="center">
 <picture>
