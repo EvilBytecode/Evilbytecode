@@ -32,7 +32,7 @@ Hello im codepulze, self taught developer with 5 - 6 years experience, my stack 
 # 🎫 Coding Services SEND DM 🎫
 - https://t.me/codepulze
 - t.me/codepulze
-- discord: codpulze
+- discord: codepulze
 
 <div align="center">
 <picture>
