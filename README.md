@@ -7,3 +7,7 @@ These tools must only be used in controlled environments, with explicit permissi
 Unauthorized use against third parties is strictly forbidden.
 
 
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
